@@ -5,7 +5,7 @@ const projects = [
   {
     title: "E-Commerce Platform",
     description: "Built an e-commerce site using React, Node.js, and SQL for managing products, users, and orders.",
-    image: "images/ecommerce.jpg",
+    image: "images/ecommerce.png",
     liveUrl: "",
     repoUrl: "https://github.com/Sumit-Saini-1/E-commerce-using-React-and-Node"
   },
