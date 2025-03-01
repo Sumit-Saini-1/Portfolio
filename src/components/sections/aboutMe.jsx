@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import profile from "../../assets/sumit.jpg"
 
 export default function AboutMe() {
   return (
@@ -12,7 +11,7 @@ export default function AboutMe() {
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <img src={profile} alt="Sumit Saini" />
+          <img src="images/sumit.jpg" alt="Sumit Saini" />
         </motion.div>
         <motion.div
           className="text-center md:text-left"
@@ -22,13 +21,15 @@ export default function AboutMe() {
         >
           <h2 className="text-3xl md:text-4xl font-bold text-blue-400 mb-4">About Me</h2>
           <p className="text-gray-300 mb-4">
-            I&apos;m a passionate <span className="text-blue-400">Frontend Developer</span> specializing in
-            modern web technologies like <span className="text-blue-400">Next.js, React, and Tailwind CSS</span>.
-            I love building user-friendly, scalable applications that enhance digital experiences.
+            I&apos;m a <span className="text-blue-400">Frontend Developer</span> with experience in modern web technologies like <span className="text-blue-400">Next.js, React, and Tailwind CSS</span>.
+            While my primary focus is frontend development, I also have knowledge of the <span className="text-blue-400">MERN stack</span>.
+            I enjoy creating seamless user experiences and scalable applications.
+          </p>
+          <p className="text-gray-300 mb-4">
+            I am currently working at <span className="text-blue-400">BetterCommerce</span> as a frontend developer. Additionally, I have completed an internship where I worked on full-stack projects, strengthening my expertise in both frontend and backend technologies.
           </p>
           <p className="text-gray-300">
-            Currently working at <span className="text-blue-400">BetterCommerce</span>, I&apos;m always eager to explore
-            new technologies and solve challenging problems. Let’s build something amazing together! 🚀
+            I&apos;m always eager to learn new technologies and tackle challenging problems. Let’s build something amazing together! 🚀
           </p>
         </motion.div>
       </div>

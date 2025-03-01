@@ -23,6 +23,7 @@ export default function LandingSection() {
         transition={{ duration: 0.8, delay: 0.2 }}
       >
         Frontend Developer | Next.js & React Enthusiast
+        {/* | MERN Stack Knowledge */}
       </motion.p>
       <div className="flex gap-4">
         <AnchorLink href="#projects">

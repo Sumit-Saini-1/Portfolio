@@ -4,22 +4,22 @@ import { FaExternalLinkAlt, FaGithub } from "react-icons/fa";
 const projects = [
   {
     title: "E-Commerce Platform",
-    description: "A scalable e-commerce platform built with Next.js, Tailwind CSS, and MongoDB.",
-    image: "/ecommerce.jpg",
+    description: "Built an e-commerce site using React, Node.js, and SQL for managing products, users, and orders.",
+    image: "images/ecommerce.jpg",
     liveUrl: "",
     repoUrl: "https://github.com/Sumit-Saini-1/E-commerce-using-React-and-Node"
   },
   {
     title: "Ticket Management System",
-    description: "A ticketing system for tracking and managing issues, built with React and Firebase.",
-    image: "/ticket-system.jpg",
+    description: "Developed a ticket system with Node.js, Express, and MongoDB, featuring real-time chat and an admin dashboard.",
+    image: "images/ticketManagement.png",
     liveUrl: "",
     repoUrl: "https://github.com/Sumit-Saini-1/Ticket-management-system"
   },
   {
-    title: "Automation Operations Tool",
-    description: "An automation tool for scheduling and generating reports using APScheduler and Flask.",
-    image: "/automation-tool.jpg",
+    title: "Group Chat Application",
+    description: "Developed a real-time group chat app with React, Node.js, Redux, and MongoDB, featuring WebSocket-based instant messaging and user authentication.",
+    image: "images/GroupChatApp.png",
     liveUrl: "",
     repoUrl: "https://github.com/Sumit-Saini-1/Group-Messaging-app"
   },
