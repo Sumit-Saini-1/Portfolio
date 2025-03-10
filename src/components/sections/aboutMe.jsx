@@ -5,13 +5,13 @@ export default function AboutMe() {
     <section id="about" className="py-16 px-6 bg-gray-800 text-white">
       <div className="max-w-5xl mx-auto flex flex-col md:flex-row items-center gap-8">
         <motion.div 
-          className="relative w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden shadow-lg"
+           className="relative w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden shadow-lg"
           initial={{ opacity: 0, x: -50 }}
           // animate={{ opacity: 1, x: 0 }}
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <img src="images/sumit.jpg" alt="Sumit Saini" />
+          <img src="images/sumit.jpg" alt="Sumit Saini" className="w-full h-full min-w-full min-h-full object-cover"/>
         </motion.div>
         <motion.div
           className="text-center md:text-left"
