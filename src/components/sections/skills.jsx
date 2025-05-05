@@ -1,4 +1,4 @@
-import { FaReact, FaNodeJs, FaDatabase, FaGitAlt } from "react-icons/fa";
+import { FaReact, FaNodeJs, FaDatabase, FaGitAlt, FaJava } from "react-icons/fa";
 import { SiNextdotjs, SiMongodb, SiTailwindcss, SiTypescript, SiJavascript } from "react-icons/si";
 import { motion } from "framer-motion";
 
@@ -11,7 +11,8 @@ const skills = [
   { name: "Node.js", icon: FaNodeJs },
   { name: "MongoDB", icon: SiMongodb },
   { name: "Databases", icon: FaDatabase },
-  { name: "Git", icon: FaGitAlt }
+  { name: "Git", icon: FaGitAlt },
+  { name: "Java", icon: FaJava }
 ];
 
 export default function Skills() {

@@ -5,13 +5,13 @@ const experiences = [
   {
     role: "Software Developer",
     company: "BetterCommerce",
-    duration: "2024 - Present",
-    description: "Working on building scalable frontend solutions using Next.js, React, and Tailwind CSS. Implementing automation tools and UI enhancements for e-commerce platforms."
+    duration: "August 2024 - April 2025",
+    description: "Worked on building scalable frontend solutions using Next.js, React, and Tailwind CSS. Built reusable UI components and enhanced user experience across e-commerce platforms."
   },
   {
     role: "Full Stack Developer Intern",
     company: "CodeQuotient",
-    duration: "2023 - 2024",
+    duration: "July 2023 - May 2024",
     description: "Developed multiple full-stack projects, including an e-commerce platform, a group chat application, and a ticket management system."
   }
 ];

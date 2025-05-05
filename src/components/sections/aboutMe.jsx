@@ -21,15 +21,14 @@ export default function AboutMe() {
         >
           <h2 className="text-3xl md:text-4xl font-bold text-blue-400 mb-4">About Me</h2>
           <p className="text-gray-300 mb-4">
-            I&apos;m a <span className="text-blue-400">Frontend Developer</span> with experience in modern web technologies like <span className="text-blue-400">Next.js, React, and Tailwind CSS</span>.
-            While my primary focus is frontend development, I also have knowledge of the <span className="text-blue-400">MERN stack</span>.
-            I enjoy creating seamless user experiences and scalable applications.
+            I&apos;m a <span className="text-blue-400">MERN Stack Developer</span> with hands-on experience in modern web technologies like <span className="text-blue-400">Next.js, React, and Tailwind CSS</span>.
+            I enjoy crafting seamless user interfaces and building scalable backend services using <span className="text-blue-400">MongoDB, Express, React, and Node.js</span>.
           </p>
           <p className="text-gray-300 mb-4">
-            I am currently working at <span className="text-blue-400">BetterCommerce</span> as a frontend developer. Additionally, I have completed an internship where I worked on full-stack projects, strengthening my expertise in both frontend and backend technologies.
+            I recently worked at <span className="text-blue-400">BetterCommerce</span> as a frontend developer, where I contributed to scalable and responsive e-commerce interfaces. Prior to that, I completed an internship at CodeQuotient, where I developed full-stack applications including an e-commerce site, a group chat app, and a ticket management system.
           </p>
           <p className="text-gray-300">
-            I&apos;m always eager to learn new technologies and tackle challenging problems. Let&apos;s build something amazing together!&nbsp;🚀
+            I&apos;m passionate about clean UI design, performance optimization, and continuous learning. Let&apos;s build impactful digital experiences together! 🚀
           </p>
         </motion.div>
       </div>

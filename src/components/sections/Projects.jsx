@@ -4,17 +4,17 @@ import { FaExternalLinkAlt, FaGithub } from "react-icons/fa";
 const projects = [
   {
     title: "E-Commerce Platform",
-    description: "Built an e-commerce site using React, Node.js, and SQL for managing products, users, and orders.",
+    description: "Designed and developed a full-featured e-commerce platform using React for the frontend, Node.js for the backend, and SQL for storage. Implemented secure authentication and a seamless shopping experience.",
     image: "images/ecommerce.png",
     liveUrl: "",
     repoUrl: "https://github.com/Sumit-Saini-1/E-commerce-using-React-and-Node"
   },
   {
-    title: "Ticket Management System",
-    description: "Developed a ticket system with Node.js, Express, and MongoDB, featuring real-time chat and an admin dashboard.",
-    image: "images/ticketManagement.png",
+    title: "Billing & Stock Management System",
+    description: "Developed a web-based billing and stock management system, enabling efficient invoice generation, stock tracking and billing history management.",
+    image: "images/bill-management.png",
     liveUrl: "",
-    repoUrl: "https://github.com/Sumit-Saini-1/Ticket-management-system"
+    repoUrl: "https://github.com/Sumit-Saini-1/Bill-Management"
   },
   {
     title: "Group Chat Application",
@@ -22,6 +22,13 @@ const projects = [
     image: "images/GroupChatApp.png",
     liveUrl: "",
     repoUrl: "https://github.com/Sumit-Saini-1/Group-Messaging-app"
+  },
+  {
+    title: "Ticket Management System",
+    description: "Developed a ticket system with Node.js, Express, and MongoDB, featuring real-time chat and an admin dashboard.",
+    image: "images/ticketManagement.png",
+    liveUrl: "",
+    repoUrl: "https://github.com/Sumit-Saini-1/Ticket-management-system"
   },
 ];
 
