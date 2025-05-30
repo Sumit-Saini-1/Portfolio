@@ -9,9 +9,15 @@ const experiences = [
     description: "Worked on building scalable frontend solutions using Next.js, React, and Tailwind CSS. Built reusable UI components and enhanced user experience across e-commerce platforms."
   },
   {
+    role: "Full Stack Developer",
+    company: "CodeQuotient",
+    duration: "May 2024 - August 2024",
+    description: "Contributed to various ongoing projects within the organization by resolving bugs and occasionally implementing new features to enhance functionality and performance."
+  },
+  {
     role: "Full Stack Developer Intern",
     company: "CodeQuotient",
-    duration: "July 2023 - May 2024",
+    duration: "July 2023 - April 2024",
     description: "Developed multiple full-stack projects, including an e-commerce platform, a group chat application, and a ticket management system."
   }
 ];
