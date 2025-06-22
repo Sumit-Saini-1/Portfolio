@@ -5,7 +5,7 @@ const experiences = [
   {
     role: "Software Developer",
     company: "BetterCommerce",
-    duration: "August 2024 - April 2025",
+    duration: "August 2024 - May 2025",
     description: "Worked on building scalable frontend solutions using Next.js, React, and Tailwind CSS. Built reusable UI components and enhanced user experience across e-commerce platforms."
   },
   {
